@@ -1,4 +1,4 @@
-In this project, I utilized Tableau to conduct a comprehensive analysis of patients who came to the hospital's Emergency Room. 
+In this project, I utilized Tableau to conduct a comprehensive analysis of patients who came to the hospital's Emergency Room. This data-driven project provides meaningful insights on the ER performance, patient flow, and critical metrics, empowering healthcare professionals to make informed decisions and optimize patient care.
 The dataset used for the analysis can be found here : 
 
 
