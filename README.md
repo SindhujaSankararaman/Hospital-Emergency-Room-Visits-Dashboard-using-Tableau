@@ -1,6 +1,6 @@
-
-Hospital Emergency Room Visits Dashboard using Tableau
 In this project, I utilized Tableau to conduct a comprehensive analysis of patients who came to the hospital's Emergency Room. The dataset used for the analysis can be found here.
+
+
 I have deep delved into the data to answer the following business questions:
 1.	How many individuals have utilized the services of the emergency room?
 2.	What is the average level of satisfaction among patients receiving care in the emergency room?
@@ -8,6 +8,8 @@ I have deep delved into the data to answer the following business questions:
 4.	Could you present a visualization detailing the hourly and weekday variations in average patient wait times? 
 5.	Is it possible to visualize patient distribution within the emergency room based on age groups? 
 6.	Could you create visual representations that display patient categories by their race and the departments from which they were referred?
+
+
 Key Insights from the analysis:
 •	A total of 9,216 patients utilized the services of the Emergency Room, indicating a significant volume of patient visits.
 •	The average satisfaction score for patients receiving care in the Emergency Room is 4.99 out of 10.
