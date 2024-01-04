@@ -19,7 +19,7 @@ Key Insights from the analysis:
 
 •	Patients typically spend an average of 35.26 minutes waiting in the Emergency Room.
 
-•	Designed a heatmap to visualize average patient wait times across different hours of the day and days of the week in the hospital's Emergency Room. This heatmap is a valuable tool for identifying patterns and making data-informed decisions to enhance ER operations. It allows healthcare professionals to optimize resource allocation, manage staffing, and improve the overall patient experience by addressing wait time issues during specific times and days.
+•	Designed a heatmap to visualize average patient wait times across different hours of the day and days of the week in the hospital's Emergency Room. This heatmap is a valuable tool that allows healthcare professionals to optimize resource allocation, manage staffing, and improve the overall patient experience by addressing wait time issues during specific times and days.
 
 •	Created an area chart to illustrate the number of patients by age in the Emergency Room. It's significant to note that the majority of patients fall within the age group of 19-65.
 
